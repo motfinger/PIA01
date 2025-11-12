@@ -9,8 +9,8 @@
   <h1>Apartado 1: Crear cuenta en GitHub y crear "Hola Mundo"</h1>
 
   <p>- Accedemos a la web de Github y pulsamos “Sign up” para crear una nueva cuenta,  
-  - Rellenamos los datos y pulsamos “Create Account”,  
-  - Una vez creada la cuenta, accedemos</p>
+  rellenamos los datos y pulsamos “Create Account”.  
+  Una vez creada la cuenta, accedemos</p>
 
   <p>- Para crear el repositorio pulsamos la opción “New”, junto a Top repositories,  
   - Le ponemos el nombre, descripción y otras opciones de configuración y pulsamos “Create repository” para finalizar.</p>
