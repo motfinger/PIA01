@@ -2,7 +2,7 @@
 <html lang="es">
 <head>
   <meta charset="UTF-8">
-  <title>Tarea1 PIA</title>
+  <title>Tarea1</title>
 </head>
 <body>
 
